@@ -1,5 +1,5 @@
 <img src="https://img.shields.io/github/downloads/xnojustice/electron-react-melixera-app/total" alt="total" />
-<img src="https://github.com/xNoJustice/electron-react-melixera-app/blob/7e7d2a703823ca389c0aa9ff0e8229deaedaa712/melixera.gif" alt="melixera" />
+<img src="https://github.com/xNoJustice/electron-react-melixera-app/blob/610d380a14b960e3254edce27ad046f19ad143e5/app.gif" alt="melixera" />
 
 ## Install for develop
 
